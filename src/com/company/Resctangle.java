@@ -43,6 +43,6 @@ public class Resctangle extends Figure {
 
     @Override
     public void draw() {
-        System.out.println("Прямоугольник выглядит тк: " + "?");
+        System.out.println("Прямоугольник выглядит так: " + "?");
     }
 }
